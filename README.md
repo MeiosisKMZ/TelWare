@@ -11,3 +11,8 @@ Be careful, it can be considered as a malware as it will put your printer in a r
 
 ## License
 [License](https://github.com/MeiosisKMZ/TelWare/LICENSE) Please keep my code free for everyone as it should be.
+
+---
+
+## VirusTotal link:
+https://www.virustotal.com/gui/file/25f30fe289fd61c99b0289e7e33bbaec38bfa3898205c90f20fd8cf12627cb83
